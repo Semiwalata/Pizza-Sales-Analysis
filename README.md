@@ -66,3 +66,4 @@ In Progress
 - SQL scripts containing the analytical queries.
 - Sales visualisations and dashboard.
 - Project findings and business recommendations.
+ 
