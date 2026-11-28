@@ -1,5 +1,6 @@
-
 # Pizza Sales Analysis
+
+![Pizza Sales Dashboard](dashboard_preview.png)
 
 ## 1. Project Overview
 
@@ -58,7 +59,7 @@ The following metrics will be investigated:
 
 ## 8. Project Status
 
-In Progress
+**Completed** — End-to-end SQL querying, Power Query data transformation, and interactive Excel dashboard development are finalized and published.
 
 ## 9. Expected Deliverables
 
@@ -66,4 +67,5 @@ In Progress
 - SQL scripts containing the analytical queries.
 - Sales visualisations and dashboard.
 - Project findings and business recommendations.
- 
+
+> **Viewing Tip:** For the best layout alignment when opening `pizza_sales_dashboard.xlsx` locally in Excel, view at **100% zoom** with the Ribbon collapsed (`Ctrl + F1`).
